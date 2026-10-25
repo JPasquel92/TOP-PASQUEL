@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://top-pasquel-geomatic-2026.mellowhero8.chatgpt.site/sitemap.xml
